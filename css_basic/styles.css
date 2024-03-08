@@ -1,9 +1,15 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(152, 218, 240);
     display: flex;
   }
 p { color: blue
   ;}
   main {
+  
     display: flex;
+    flex-direction: row;
+
+  }
+  section{
+    flex-direction: row;
   }
