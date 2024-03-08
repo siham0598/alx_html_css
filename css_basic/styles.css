@@ -1,5 +1,9 @@
 body {
     background-color: lightblue;
+    display: flex;
   }
 p { color: blue
   ;}
+  main {
+    display: flex;
+  }
